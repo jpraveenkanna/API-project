@@ -9,4 +9,4 @@ services:
       - my_db
   my_db:
     build: "./db"
-    image: mongo
+    #image: mongo:3.6.4
