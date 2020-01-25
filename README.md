@@ -1,8 +1,8 @@
 # User authentication
  
-Simple project to create a Restful API call using docker
+Simple project to perform user authentication using docker
 
 Technology used
--Flask
--pyMongoDB
--Bcrycpt 
+ - Flask
+ - pyMongoDB
+ - Bcrycpt 
