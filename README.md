@@ -1,4 +1,4 @@
-# API-project
+# User authentication
  
 Simple project to create a Restful API call using docker
 
